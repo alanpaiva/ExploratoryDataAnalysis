@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis @coursera
 
 About the Course
 
